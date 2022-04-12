@@ -51,3 +51,9 @@ Cpp 02 :
 
 Cpp 03 :
 [![fcatinau's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2543776)](https://github.com/JaeSeoKim/badge42)
+
+Cub3D :
+[![fcatinau's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2556585)](https://github.com/JaeSeoKim/badge42)
+
+Exam_rank 04 :
+[![fcatinau's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2558606)](https://github.com/JaeSeoKim/badge42)
