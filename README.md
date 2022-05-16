@@ -72,3 +72,9 @@ Cpp 07 :
 
 Cpp 08 :
 [![fcatinau's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2573892)](https://github.com/JaeSeoKim/badge42)
+
+Inception :
+[![fcatinau's 42 Inception Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2582106)](https://github.com/JaeSeoKim/badge42)
+
+Exam_rank 05 :
+[![fcatinau's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2582651)](https://github.com/JaeSeoKim/badge42)
