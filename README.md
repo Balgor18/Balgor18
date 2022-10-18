@@ -78,3 +78,12 @@ Inception :
 
 Exam_rank 05 :
 [![fcatinau's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2582651)](https://github.com/JaeSeoKim/badge42)
+
+Ft_irc :
+[![fcatinau's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2657307)](https://github.com/JaeSeoKim/badge42)
+
+ft_containers :
+[![fcatinau's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2842093)](https://github.com/JaeSeoKim/badge42)
+
+ft_transcendence:
+[![fcatinau's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2842093)](https://github.com/JaeSeoKim/badge42)
