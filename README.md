@@ -2,7 +2,7 @@
 [![fcatinau's 42 stats](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
 
 Libft :
-[![fcatinau's 42 Libft Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2063882)](https://github.com/JaeSeoKim/badge42)
+[![fcatinau's 42 Libft Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2063882)](https://github.com/Balgor18/42_libft)
 
 Get next line :
 [![fcatinau's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2069303)](https://github.com/JaeSeoKim/badge42)
