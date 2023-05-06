@@ -86,4 +86,4 @@ ft_containers :
 [![fcatinau's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2842093)](https://github.com/Balgor18/ft_containers)
 
 ft_transcendence:
-[![fcatinau's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2842093)](https://github.com/Balgor18/ft_transcendence)
+[![fcatinau's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/3022611)](https://github.com/Balgor18/ft_transcendence)
