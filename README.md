@@ -11,7 +11,7 @@
 ![Balgor18's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balgor18&show_icons=true&theme=dark)
 
 <!-- [![fcatinau's 42 stats](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42) -->
-[![fcatinau's 42 stats](https://badge.mediaplus.ma/darkblue/fcatinau)](https://github.com/oakoudad/badge42)
+[![fcatinau's 42 stats](https://badge.mediaplus.ma/binary/fcatinau?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
