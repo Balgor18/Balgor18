@@ -13,6 +13,16 @@
 <!-- [![fcatinau's 42 stats](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42) -->
 [![fcatinau's 42 stats](https://badge.mediaplus.ma/binary/fcatinau?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
+<p align='center'>
+  <a href="https://github.com/Balgor18/Balgor18">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+      <img alt="automaths" src="./profile-3d-contrib/profile-green-animate.svg" width = 500 align="left">
+    </picture>
+  </a>
+</p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
