@@ -1,16 +1,7 @@
-
-
-<!-- <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> -->
-<!-- <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>  -->
-<!-- <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>  -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> --> 
-
 <h2>Statistic</h2>
 
 ![Balgor18's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balgor18&show_icons=true&theme=dark)
 
-<!-- [![fcatinau's 42 stats](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42) -->
 [![fcatinau's 42 stats](https://badge.mediaplus.ma/binary/fcatinau?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <p align='center'>
@@ -43,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </p>
 
-| Language use | Project name     | Status                |
+<!-- | Language use | Project name     | Status                |
 | :------ | :------- | :------------------------- |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Libft | ![fcatinau's 42 Libft Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2063882)    |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Get_next_line | ![fcatinau's 42 Libft Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2063882)   |
@@ -78,4 +69,4 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Exam 03 | ![fcatinau's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2403144)    |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Exam 04 | ![fcatinau's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2558606)    |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Exam 05 | ![fcatinau's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2582651)    |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Exam 06 | ![fcatinau's 42 Exam Rank 06 Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2911217)    |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Exam 06 | ![fcatinau's 42 Exam Rank 06 Score](https://badge42.vercel.app/api/v2/cl197w71n00110al5s3ym2w7v/project/2911217)    | -->
