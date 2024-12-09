@@ -1,20 +1,4 @@
-<h2>Statistic</h2>
-
-![Balgor18's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balgor18&show_icons=true&theme=dark)
-
-[![fcatinau's 42 stats](https://badge.mediaplus.ma/binary/fcatinau?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-<p align='center'>
-  <a href="https://github.com/Balgor18/Balgor18">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
-      <img alt="automaths" src="./profile-3d-contrib/profile-green-animate.svg" width = 500 align="left">
-    </picture>
-  </a>
-</p>
-  
-
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -32,6 +16,23 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</p>  
+
+<h2>Statistic</h2>
+
+![Balgor18's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balgor18&show_icons=true&theme=dark)
+
+<h2>42 Statistic</h2>  
+
+[![fcatinau's 42 stats](https://badge.mediaplus.ma/binary/fcatinau?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+<p align='center'>
+  <a href="https://github.com/Balgor18/Balgor18">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+      <img alt="automaths" src="./profile-3d-contrib/profile-green-animate.svg" width = 500 align="left">
+    </picture>
+  </a>
 </p>  
 
 <!-- | Language use | Project name     | Status                |
